@@ -1,5 +1,5 @@
 {
-    "name": "mateu/teste",
+    "name": "gustavo/teste",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "mateus",
-            "email": "mateusflorencio@outlook.com.br"
+            "name": "gustavo",
+            "email": "gmouraria@gmail.com"
         }
     ],
     "require": {}
